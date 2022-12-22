@@ -1,0 +1,14 @@
+{
+  "name": "homework8_npm",
+  "version": "0.0.1",
+  "description": "my npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paata",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
